@@ -1,0 +1,838 @@
+[
+  {
+    "id": 1,
+    "province": "Agadir Ida Ou Tanane",
+    "region": "Souss-Massa",
+    "communes": [
+      "Agadir", "Amskroud", "Aourir", "Aqesri", "Aziar", "Drargua", "Idmine",
+      "Imouzzer", "Imsouane", "Tadrart", "Taghazout", "Tamri", "Tiqqi"
+    ]
+  },
+  {
+    "id": 2,
+    "province": "Al Haouz",
+    "region": "Marrakech-Safi",
+    "communes": [
+      "Abadou", "Aghbar", "Aghouatim", "Ait Aadel", "Ait Faska", "Ait Hkim-Ait Yzid",
+      "Ait Ourir", "Ait Sidi Daoud", "Amghras", "Amizmiz", "Anougal", "Asni",
+      "Azgour", "Dar Jamaa", "Ghmat", "Ighil", "Iguerferouane", "Ijoukak",
+      "Imgdal", "Lamaachate", "Moulay Brahim", "Ouazguita", "Ouirgane",
+      "Oukaimden", "Oulad Mtaa", "Ourika", "Sidi Abdellah Ghiat", "Sidi Badhaj",
+      "Sti Fadma", "Tahannaout", "Talat N'Yaaqoub", "Tamaguert", "Tamazouzte",
+      "Tameslohte", "Tazart", "Tidili Mesfioua", "Tighedouine", "Tizguine",
+      "Touama", "Zerkten"
+    ]
+  },
+  {
+    "id": 3,
+    "province": "Al Hoceima",
+    "region": "Tanger-Tetouan-Al Hoceima",
+    "communes": [
+      "Abdelghaya Souahel", "Ait Kamra", "Ait Youssef Ou Ali", "Ajdir", "Al Hoceima",
+      "Arbaa Taourirt", "Bni Abdallah", "Bni Ahmed Imoukzan", "Bni Ammart",
+      "Bni Bchir", "Bni Bouayach", "Bni Bouchibet", "Bni Boufrah", "Bni Bounsar",
+      "Bni Gmil", "Bni Gmil Maksouline", "Bni Hadifa", "Chakrane", "Imrabten",
+      "Imzouren", "Issaguen", "Izemmouren", "Ketama", "Louta", "Moulay Ahmed Cherif",
+      "Nekkour", "Rouadi", "Senada", "Sidi Boutmim", "Sidi Bouzineb", "Taghzout",
+      "Tamsaout", "Targuist", "Tifarouine", "Zaouiat Sidi Abdelkader", "Zarkt"
+    ]
+  },
+  {
+    "id": 4,
+    "province": "Aousserd",
+    "region": "Dakhla-Oued Ed-Dahab",
+    "communes": [
+      "Aghouinite", "Aousserd", "Bir Gandouz", "Lagouira", "Tichla", "Zoug"
+    ]
+  },
+  {
+    "id": 5,
+    "province": "Assa-Zag",
+    "region": "Guelmim-Oued Noun",
+    "communes": [
+      "Al Mahbass", "Aouint Lahna", "Aouint Yghomane", "Assa", "Labouirat",
+      "Touizgui", "Zag"
+    ]
+  },
+  {
+    "id": 6,
+    "province": "Azilal",
+    "region": "Béni Mellal-Khénifra",
+    "communes": [
+      "Afourar", "Agoudi N'Lkhair", "Ait Abbas", "Ait Blal", "Ait Bou Oulli",
+      "Ait Majden", "Ait Mazigh", "Ait M'Hamed", "Ait Ouaarda", "Ait Oumdis",
+      "Ait Ouqabli", "Ait Taguella", "Ait Tamlil", "Anergui", "Anzou", "Azilal",
+      "Bin El Ouidane", "Bni Ayat", "Bni Hassane", "Bzou", "Demnate", "Foum Jemaa",
+      "Imlil", "Isseksi", "Moulay Aissa Ben Driss", "Ouaouizeght", "Ouaoula",
+      "Rfala", "Sidi Boulkhalf", "Sidi Yacoub", "Tabant", "Tabaroucht", "Tabia",
+      "Tagleft", "Tamda Noumercid", "Tanant", "Taounza", "Tidili Fetouaka",
+      "Tiffert N'Ait Hamza", "Tifni", "Tilougguite", "Timoulilt", "Tisqi",
+      "Zaouiat Ahansal"
+    ]
+  },
+  {
+    "id": 7,
+    "province": "Benslimane",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Ahlaf", "Ain Tizgha", "Benslimane", "Bir Ennasr", "Bouznika", "Charrate",
+      "El Mansouria", "Fdalate", "Mellila", "Moualine El Oued", "Oulad Ali Toualaa",
+      "Oulad Yahya Louta", "Rdadna Oulad Malek", "Sidi Bettache", "Ziaida"
+    ]
+  },
+  {
+    "id": 8,
+    "province": "Berkane",
+    "region": "Oriental",
+    "communes": [
+      "Aghbal", "Ahfir", "Ain Erreggada", "Aklim", "Berkane", "Boughriba",
+      "Chouihia", "Fezouane", "Laatamna", "Madagh", "Rislane", "Saidia",
+      "Sidi Bouhria", "Sidi Slimane Echcharraa", "Tafoughalt", "Zegzel"
+    ]
+  },
+  {
+    "id": 9,
+    "province": "Berrechid",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Ben Maachou", "Berrechid", "Deroua", "El Gara", "Foqra Oulad Aameur",
+      "Had Soualem", "Jaqma", "Kasbat Ben Mchich", "Laghnimyine", "Lahsinate",
+      "Lamhadi", "Oulad Abbou", "Oulad Ziyane", "Ouled Cebbah", "Ouled Zidane",
+      "Riah", "Sahel Oulad H'Riz", "Sidi Abdelkhaleq", "Sidi El Mekki",
+      "Sidi Rahal Chatai", "Soualem Trifiya", "Zaouiat Sidi Ben Hamdoun"
+    ]
+  },
+  {
+    "id": 10,
+    "province": "Boujdour",
+    "region": "Laâyoune-Sakia El Hamra",
+    "communes": [
+      "Boujdour", "Gueltat Zemmour", "Jraifia", "Lamzoudia"
+    ]
+  },
+  {
+    "id": 11,
+    "province": "Boulemane",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Ait Bazza", "Ait El Mane", "Almis Marmoucha", "Boulemane", "El Mers",
+      "El Orjane", "Enjil", "Ermila", "Fritissa", "Guigou", "Imouzzer Marmoucha",
+      "Ksabi Moulouya", "Missour", "Ouizeght", "Oulad Ali Youssef", "Outat El Haj",
+      "Serghina", "Sidi Boutayeb", "Skoura M'Daz", "Talzemt", "Tissaf"
+    ]
+  },
+  {
+    "id": 12,
+    "province": "Béni Mellal",
+    "region": "Béni Mellal-Khénifra",
+    "communes": [
+      "Aghbala", "Ait Oum El Bekht", "Boutferda", "Béni Mellal", "Dir El Ksiba",
+      "El Ksiba", "Foum El Anceur", "Foum Oudi", "Guettaya", "Kasba Tadla",
+      "Naour", "Ouled Gnaou", "Ouled M'Barek", "Ouled Said L'Oued", "Ouled Yaich",
+      "Ouled Youssef", "Semguet", "Sidi Jaber", "Taghzirt", "Tanougha",
+      "Tizi N'Isly", "Zaouiat Cheikh"
+    ]
+  },
+  {
+    "id": 13,
+    "province": "Casablanca",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Al-Fida", "Anfa", "Assoukhour Assawda", "Aîn-Chock", "Aîn-Sebaâ",
+      "Ben M'Sick", "El Maarif", "Hay Mohammadi", "Hay-Hassani",
+      "Mechouar de Casablanca", "Mers-Sultan", "Moulay Rachid", "Sbata",
+      "Sidi Belyout", "Sidi Bernoussi", "Sidi Moumen", "Sidi Othmane"
+    ]
+  },
+  {
+    "id": 14,
+    "province": "Chefchaouen",
+    "region": "Tanger-Tetouan-Al Hoceima",
+    "communes": [
+      "Amtar", "Bab Berred", "Bab Taza", "Bni Ahmed Cherqia", "Bni Ahmed Gharbia",
+      "Bni Bouzra", "Bni Darkoul", "Bni Faghloum", "Bni Mansour", "Bni Rzine",
+      "Bni Salah", "Bni Selmane", "Bni Smih", "Chefchaouen", "Derdara", "Fifi",
+      "Iounane", "Laghdir", "Mansoura", "M'tioua", "Ouaouzgane", "Oued Malha",
+      "Steha", "Talambote", "Tamorot", "Tanaqoub", "Tassift", "Tizgane"
+    ]
+  },
+  {
+    "id": 15,
+    "province": "Chichaoua",
+    "region": "Marrakech-Safi",
+    "communes": [
+      "Adassil", "Afella Issen", "Ahdil", "Ain Tazitounte", "Ait Haddou Youssef",
+      "Ait Hadi", "Assif El Mal", "Bouabout", "Bouabout Amdlane", "Chichaoua",
+      "Douirane", "Gmassa", "Ichamraren", "Imindounit", "Imintanoute", "Irohalen",
+      "Kouzemt", "Lalla Mimouna", "Majjat", "M'Zouda", "Nfifa", "Ouad L'bour",
+      "Oulad Moumna", "Rahhala", "Saidate", "Sid L'Mokhtar", "Sidi Abdelmoumen",
+      "Sidi Bouzid Arragragui", "Sidi Ghanem", "Sidi M'Hamed Dalil", "Taouloukoult",
+      "Timezgadiouine", "Timlilt", "Zaouia Annahlia"
+    ]
+  },
+  {
+    "id": 16,
+    "province": "Chtouka- Ait Baha",
+    "region": "Souss-Massa",
+    "communes": [
+      "Ait Amira", "Ait Baha", "Ait Milk", "Ait Mzal", "Ait Ouadrim", "Aouguenz",
+      "Belfaa", "Biougra", "Hilala", "Ida Ougnidif", "Imi Mqourn", "Inchaden",
+      "Massa", "Ouad Essafa", "Sidi Abdallah El Bouchouari", "Sidi Bibi",
+      "Sidi Boushab", "Sidi Ouassay", "Tanalt", "Targua Ntouchka", "Tassegdelt",
+      "Tizi Ntakoucht"
+    ]
+  },
+  {
+    "id": 17,
+    "province": "Driouch",
+    "region": "Oriental",
+    "communes": [
+      "Ain Zohra", "Ait Mait", "Amejjaou", "Azlaf", "Ben Taieb", "Bni Marghnine",
+      "Boudinar", "Dar El Kebdani", "Driouch", "Iferni", "Ijermaouas", "Midar",
+      "Mtalssa", "M'Hajer", "Ouardana", "Oulad Amghar", "Oulad Boubker", "Tafersit",
+      "Talilit", "Tazaghine", "Temsamane", "Trougout", "Tsaft"
+    ]
+  },
+  {
+    "id": 18,
+    "province": "EL Youssoufia",
+    "region": "Marrakech-Safi",
+    "communes": [
+      "Atiamim", "Echemmaia", "El Gantour", "El Youssoufia", "Esbiaat", "Ighoud",
+      "Jdour", "Jnane Bouih", "Lakhsas", "Ras El Ain", "Sidi Chiker"
+    ]
+  },
+  {
+    "id": 19,
+    "province": "El Hajeb",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Agourai", "Ain Taoujdate", "Ait Boubidmane", "Ait Bourzouine", "Ait Harz Allah",
+      "Ait Naamane", "Ait Ouikhalfen", "Ait Yaazem", "Bitit", "El Hajeb", "Iqaddar",
+      "Jahjouh", "Ras Ijerri", "Sabaa Aiyoun", "Tamchachate"
+    ]
+  },
+  {
+    "id": 20,
+    "province": "El Jadida",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Azemmour", "Boulaouane", "Chaibate", "Chtouka", "El Jadida", "Haouzia",
+      "Laghdira", "Lamjaara", "Lebkhata", "Mettouh", "Mogress", "Moulay Abdellah",
+      "OULED-AISSA", "Oulad Frej", "Oulad Hamdane", "Oulad Rahmoune",
+      "Oulad Sidi Ali Ben Youssef", "Ouled Ghanem", "Ouled Hcine", "Sebt Saiss",
+      "Si Hsaien Ben Abderrahmane", "Sidi Abed", "Sidi Ali Ben Hamdouche",
+      "Sidi M'Hamed Akhdim", "Sidi Smail", "Zaouiat Lakouacem", "Zaouiat Saiss"
+    ]
+  },
+  {
+    "id": 21,
+    "province": "El Kelâa des Sraghna",
+    "region": "Marrakech-Safi",
+    "communes": [
+      "Assahrij", "Bouya Omar", "Choara", "Chtaiba", "Dzouz", "Eddachra", "El Aamria",
+      "El Kelaâ des Sraghna", "El Marbouh", "Errafiaya", "Fraita", "Hiadna", "Jbiel",
+      "Jouala", "Laattaouia", "Laattaouia Ech-chaibia", "Laâtamna", "Louad Lakhdar",
+      "Lounasda", "Mayate", "M'Zem Sanhaja", "Ouargui", "Oulad Aamer", "Oulad Aarrad",
+      "Oulad Bouali Loued", "Oulad Cherki", "Oulad El Garne", "Oulad Khallouf",
+      "Oulad Massaoud", "Oulad Msabbel", "Oulad Sbih", "Oulad Yaacoub", "Oulad Zarrad",
+      "Sidi Aissa Ben Slimane", "Sidi El Hattab", "Sidi Moussa", "Sidi Rahhal",
+      "Sour El Aaz", "Tamallalt", "Taouzint", "Zemrane", "Zemrane Charqia", "Znada"
+    ]
+  },
+  {
+    "id": 22,
+    "province": "Errachidia",
+    "region": "Drâa-Tafilalet",
+    "communes": [
+      "Aarab Sebbah Gheris", "Aarab Sebbah Ziz", "Aghbalou N'Kerdous", "Amellagou",
+      "Aoufous", "Arfoud", "Bni M'Hamed-Sijelmassa", "Boudnib", "Chorfa M'Daghra",
+      "Er-rissani", "Er-rteb", "Errachidia", "Es-sfalat", "Es-sifa", "Et-taous",
+      "Ferkla El Oulia", "Ferkla Es-soufla", "Fezna", "Gheris El Ouloui",
+      "Gheris Es-soufli", "Goulmima", "Jorf", "Lkheng", "Melaab", "Moulay Ali Cherif",
+      "Oued Naam", "Sidi Ali", "Tadighoust", "Tinejdad"
+    ]
+  },
+  {
+    "id": 23,
+    "province": "Es-Semara",
+    "region": "Laâyoune-Sakia El Hamra",
+    "communes": [
+      "Amgala", "Es-semara", "Haouza", "Jdiriya", "Sidi Ahmed Laaroussi", "Tifariti"
+    ]
+  },
+  {
+    "id": 24,
+    "province": "Essaouira",
+    "region": "Marrakech-Safi",
+    "communes": [
+      "Adaghas", "Aglif", "Aguerd", "Ait Aissi Ihahane", "Ait Daoud", "Ait Said",
+      "Aquermoud", "Assais", "Bizdad", "Bouzemmour", "El Hanchane", "Essaouira",
+      "Ezzaouite", "Had Dra", "Ida Ou Aazza", "Ida Ou Guelloul", "Ida Ou Kazzou",
+      "Imgrade", "Imi N'Tlit", "Kechoula", "Korimate", "Lagdadra", "Lakhnafif",
+      "Mejji", "Meskala", "Mouarid", "Moulay Bouzarqtoune", "Mzilate", "M'Khalif",
+      "M'Ramer", "Oulad M'Rabet", "Ounagha", "Sidi Abdeljalil", "Sidi Ahmed Essayeh",
+      "Sidi Aissa Regragui", "Sidi Ali El Korati", "Sidi Boulaalam", "Sidi El Jazouli",
+      "Sidi Ghaneme", "Sidi Hmad Ou Hamed", "Sidi H'Mad Ou M'Barek", "Sidi Ishaq",
+      "Sidi Kaouki", "Sidi Laaroussi", "Sidi M'Hamed Ou Marzouq", "Smimou", "Tafedna",
+      "Tafetachte", "Tahelouante", "Takate", "Takoucht", "Talmest", "Tamanar",
+      "Targante", "Tidzi", "Timizguida-Ouftas", "Zaouiat Ben Hmida"
+    ]
+  },
+  {
+    "id": 25,
+    "province": "Fahs-Anjra",
+    "region": "Tanger-Tetouan-Al Hoceima",
+    "communes": [
+      "Al Bahraoyine", "Anjra", "Jouamaa", "Ksar El Majaz", "Ksar Sghir", "Malloussa",
+      "Taghramt"
+    ]
+  },
+  {
+    "id": 26,
+    "province": "Figuig",
+    "region": "Oriental",
+    "communes": [
+      "Abbou Lakhal", "Ain Chair", "Ain Chouater", "Bni Guil", "Bni Tadjite",
+      "Bouanane", "Bouarfa", "Bouchaouene", "Boumerieme", "Figuig", "Maatarka",
+      "Talsint", "Tendrara"
+    ]
+  },
+  {
+    "id": 27,
+    "province": "Fquih Ben Salah",
+    "region": "Béni Mellal-Khénifra",
+    "communes": [
+      "Bni Chegdale", "Bni Oukil", "Bradia", "Dar Ould Zidouh", "FQUIH BEN SALAH",
+      "Had Boumoussa", "Hel Merbaa", "Khalfia", "Krifate", "Ouled Ayad",
+      "Ouled Bourahmoune", "Ouled Nacer", "Ouled Zmam", "Sidi Aissa Ben Ali",
+      "Sidi Hammadi", "Souk Sebt Ouled Nemma"
+    ]
+  },
+  {
+    "id": 28,
+    "province": "Fès",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Agdal", "Ain Bida", "El Mariniyine", "Fès-Médina", "Jnan El Ouard",
+      "Méchouar Fès Jdid", "Oulad Tayeb", "Saiss", "Sidi Harazem", "Zouagha"
+    ]
+  },
+  {
+    "id": 29,
+    "province": "Guelmim",
+    "region": "Guelmim-Oued Noun",
+    "communes": [
+      "Abaynou", "Aday", "Aferkat", "Ait Boufoulen", "Amtdi", "Asrir", "Bouizakarne",
+      "Echatea El Abied", "Fask", "Guelmim", "Ifrane Atlas Saghir", "Labyar", "Laqsir",
+      "Rass Oumlil", "Tagante", "Taghjijt", "Taliouine Assaka", "Targa Wassay",
+      "Tiglit", "Timoulay"
+    ]
+  },
+  {
+    "id": 30,
+    "province": "Guercif",
+    "region": "Oriental",
+    "communes": [
+      "Assebbab", "Barkine", "Guercif", "Houara Oulad Raho", "Lamsabih", "Mazguitam",
+      "Oulad Bourima", "Ras Laksar", "Saka", "Taddart"
+    ]
+  },
+  {
+    "id": 31,
+    "province": "Ifrane",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Ain Leuh", "Azrou", "Ben Smim", "Dayat Aoua", "Ifrane", "Oued Ifrane",
+      "Sidi El Makhfi", "Tigrigra", "Timahdite", "Tizguite"
+    ]
+  },
+  {
+    "id": 32,
+    "province": "Inezgane Ait Melloul",
+    "region": "Souss-Massa",
+    "communes": [
+      "Ait Melloul", "Dcheira El Jihadia", "Inezgane", "Lqliaa", "Oulad Dahou", "Temsia"
+    ]
+  },
+  {
+    "id": 33,
+    "province": "Jerada",
+    "region": "Oriental",
+    "communes": [
+      "Ain Bni Mathar", "Bni Mathar", "Gafait", "Guenfouda", "Jerada", "Laaouinate",
+      "Lehri", "Mrija", "Oulad Ghziyel", "Oulad Sidi Abdelhakem", "Ras Asfour",
+      "SIDI-BOUBKER", "Tiouli", "Touissit"
+    ]
+  },
+  {
+    "id": 34,
+    "province": "Khouribga",
+    "region": "Béni Mellal-Khénifra",
+    "communes": [
+      "Ain Kaicher", "Ait Ammar", "Bejaad", "Bir Mezoui", "Bni Bataou", "Bni Smir",
+      "Bni Ykhlef", "Bni Zrantel", "Boujniba", "Boukhrisse", "Boulanouare", "Braksa",
+      "Chougrane", "El Foqra", "Hattane", "Kasbat Troch", "Khouribga", "Lagfaf",
+      "Lagnadiz", "Maadna", "M'Fassis", "Oued Zem", "Oulad Abdoune", "Oulad Azzouz",
+      "Oulad Boughadi", "Oulad Fennane", "Oulad Ftata", "Oulad Gouaouch", "Rouached",
+      "Tachraft"
+    ]
+  },
+  {
+    "id": 35,
+    "province": "Khémisset",
+    "region": "Rabat-Salé-Kénitra",
+    "communes": [
+      "Ain Johra -Sidi Boukhalkhal", "Ain Sbit", "Ait Ali ou Lahcen", "Ait Belkacem",
+      "Ait Bouyahya El Hajjama", "Ait Ichou", "Ait Ikkou", "Ait Mimoune", "Ait Ouribel",
+      "Ait Siberne", "Ait Yadine", "Aît malek", "Bouqachmir", "Brachoua", "El Ganzra",
+      "Ezzhiliga", "Houderrane", "Jemaat Moul Blad", "Khemis Sidi Yahya", "Khémisset",
+      "Laghoualem", "Maaziz", "Majmaa Tolba", "Marchouch", "Moulay Driss Aghbal",
+      "M'qam Tolba", "Oulmes", "Rommani", "Sfassif", "Sidi Abderrazak",
+      "Sidi Allal El Bahraoui", "Sidi Allal Lamsadder", "Sidi El Ghandour", "Tiddas",
+      "Tiflet"
+    ]
+  },
+  {
+    "id": 36,
+    "province": "Khénifra",
+    "region": "Béni Mellal-Khénifra",
+    "communes": [
+      "Aguelmam Azegza", "Aguelmous", "Ait Ishaq", "Ait Saadelli", "El Borj",
+      "El Hammam", "El Kbab", "Had Bouhssoussen", "Kerrouchen", "Khenifra",
+      "Lgharbia", "Moha Ou Hammou Zayani", "Moulay Bouazza", "M'Rirt", "Ouaoumana",
+      "Oum Rabia", "Sebt Ait Rahou", "Sidi Amar", "Sidi Hcine", "Sidi Lamine",
+      "Sidi Yahya Ou Saad", "Tighassaline"
+    ]
+  },
+  {
+    "id": 37,
+    "province": "Kénitra",
+    "region": "Rabat-Salé-Kénitra",
+    "communes": [
+      "Ameur Seflia", "Arbaoua", "Bahhara Ouled Ayad", "Ben Mansour", "Beni Malek",
+      "Chouafaa", "Haddada", "Kariat Ben Aouda", "Kénitra", "Lalla Takarkoust",
+      "Mehdya", "Mnasra", "Mograne", "Moulay Bousselham", "Oued El Makhazine",
+      "Ouled Slama", "Sidi Allal Tazi", "Sidi Boubker El Haj", "Sidi Mohamed Ben Mansour",
+      "Sidi Mohamed Lahmar", "Sidi Taibi", "Souk El Arbaa el gharb", "Souk Tlet El Gharb"
+    ]
+  },
+  {
+    "id": 38,
+    "province": "Laayoune",
+    "region": "Laâyoune-Sakia El Hamra",
+    "communes": [
+      "Boukraa", "Dcheira", "El Marsa", "Foum El Oued", "Laayoune"
+    ]
+  },
+  {
+    "id": 39,
+    "province": "Larache",
+    "region": "Tanger-Tetouan-Al Hoceima",
+    "communes": [
+      "Ayacha", "Bni Arouss", "Bni Garfett", "Bou Jedyane", "Ksar Bjir", "Ksar El Kebir",
+      "Laouamra", "Larache", "Oulad Ouchih", "Rissana Chamalia", "Rissana Janoubia",
+      "Sahel", "Souaken", "Souk L'Qolla", "Souk Tolba", "Tatoft", "Tazroute",
+      "Zaaroura", "Zouada"
+    ]
+  },
+  {
+    "id": 40,
+    "province": "Marrakech",
+    "region": "Marrakech-Safi",
+    "communes": [
+      "Agafay", "Ait Imour", "Alouidane", "Annakhil", "Gueliz", "Harbil", "Loudaya",
+      "Marrakech-Médina", "M'Nabha", "Méchouar-Kasba", "Ménara", "Ouahat Sidi Brahim",
+      "Oulad Hassoune", "Ouled Dlim", "Saada", "Sid Zouine", "Sidi Youssef Ben Ali",
+      "Souihla", "Tassoultante"
+    ]
+  },
+  {
+    "id": 41,
+    "province": "Mdiq - Fnidq",
+    "region": "Tanger-Tetouan-Al Hoceima",
+    "communes": [
+      "Allyene", "Belyounech", "Fnideq", "Martil", "M'Diq"
+    ]
+  },
+  {
+    "id": 42,
+    "province": "Mediouna",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Al Majjatia Oulad Taleb", "Lahsasna", "Mediouna", "Sidi Hajjaj Oued hassar",
+      "Tit Mellil"
+    ]
+  },
+  {
+    "id": 43,
+    "province": "Meknès",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Ain Jemaa", "Ain Karma- Oued Rommane", "Ain Orma", "Ait Ouallal",
+      "Al Machouar - Stinia", "Boufakrane", "Charqaoua", "Dar Oum Soltane", "Dkhissa",
+      "MRhassiyine", "Majjate", "Meknès", "Moulay Driss Zerhoun", "M'haya",
+      "N'zalat Bni Amar", "Oualili", "Oued Jdida", "Ouislane", "Sidi Abdallah Al Khayat",
+      "Sidi Slimane Moul Al Kifane", "Toulal"
+    ]
+  },
+  {
+    "id": 44,
+    "province": "Midelt",
+    "region": "Drâa-Tafilalet",
+    "communes": [
+      "Aghbalou", "Agoudim", "Ait Ayach", "Ait Ben Yacoub", "Ait Izdeg", "Ait Yahya",
+      "Amersid", "Amouguer", "Anemzi", "Bou Azmou", "Boumia", "En-nzala", "Er-rich",
+      "Gourrama", "Guers Tiaallaline", "Guir", "Imilchil", "Itzer", "Mibladen",
+      "Midelt", "M'Zizel", "Outerbat", "Sidi Aayad", "Sidi Yahya Ou Youssef",
+      "Tanourdi", "Tizi N'Ghachou", "Tounfite", "Zaida", "Zaouiat Sidi Hamza"
+    ]
+  },
+  {
+    "id": 45,
+    "province": "Mohammadia",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Ain Harrouda", "Bni Yakhlef", "Ech-challalate", "Mohammadia",
+      "Sidi Moussa Ben Ali", "Sidi Moussa Majdoub"
+    ]
+  },
+  {
+    "id": 46,
+    "province": "Moulay Yacoub",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Ain Bou Ali", "Ain Chkef", "Ain Kansra", "Laajajra", "Louadaine", "Mikkes",
+      "Moulay Yacoub", "Oulad Mimoun", "Sebaa Rouadi", "Sebt Loudaya", "Sidi Daoud"
+    ]
+  },
+  {
+    "id": 47,
+    "province": "Nador",
+    "region": "Oriental",
+    "communes": [
+      "Afsou", "Al Aaroui", "Al Barkanyene", "Arekmane", "Bni Ansar", "Bni Bouifrour",
+      "Bni Chiker", "Bni Oukil Oulad M'Hand", "Bni Sidel Jbel", "Bni Sidel Louta",
+      "Bouarg", "Hassi Berkane", "Iaazzanene", "Ihaddadene", "Iksane", "Nador",
+      "Oulad Daoud Zkhanine", "Oulad Settout", "Ras El Ma", "Selouane", "Tiztoutine",
+      "Zaio", "Zeghanghane"
+    ]
+  },
+  {
+    "id": 48,
+    "province": "Nouaceur",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Bouskoura", "Dar Bouazza", "Nouasseur ", "Oulad Salah", "Oulad azzouz"
+    ]
+  },
+  {
+    "id": 49,
+    "province": "Ouarzazate",
+    "region": "Drâa-Tafilalet",
+    "communes": [
+      "Ait Zineb", "Amerzgane", "GHASSATE", "Idelsane", "Ighrem N'Ougdal",
+      "Imi N'Oulaoune", "Iznaguen", "Khouzama", "Ouarzazate", "Ouisselsate",
+      "Siroua", "Skoura Ahl El Oust", "Tarmigt", "Taznakht", "Telouet", "Tidli",
+      "Toundoute"
+    ]
+  },
+  {
+    "id": 50,
+    "province": "Oued-Ed-Dahab",
+    "region": "Dakhla-Oued Ed-Dahab",
+    "communes": [
+      "Bir Anzarane", "Dakhla", "El Argoub", "Gleibat El Foula", "Imlili", "Mijik",
+      "Oum Dreyga"
+    ]
+  },
+  {
+    "id": 51,
+    "province": "Ouezzane",
+    "region": "Tanger-Tetouan-Al Hoceima",
+    "communes": [
+      "Ain Beida", "Asjen", "Bni Quolla", "Brikcha", "Kalaat Bouqorra", "Lamnizla",
+      "Masmouda", "Moqrisset", "Mzefroune", "Ouezzane", "Ounnana", "Sidi Ahmed Cherif",
+      "Sidi Bousber", "Sidi Redouane", "Teroual", "Zghira", "Zoumi"
+    ]
+  },
+  {
+    "id": 52,
+    "province": "Oujda-Angad",
+    "region": "Oriental",
+    "communes": [
+      "Ahl Angad", "Ain Sfa", "Bni Drar", "Bni Khaled", "Bsara", "Isly", "Mestferki",
+      "Naima", "Oujda", "Sidi Boulenouar", "Sidi Moussa Lemhaya"
+    ]
+  },
+  {
+    "id": 53,
+    "province": "Rabat",
+    "region": "Rabat-Salé-Kénitra",
+    "communes": [
+      "Agdal Riyad", "Hassan", "Souissi", "Touarga", "Yacoub El Mansour"
+    ]
+  },
+  {
+    "id": 54,
+    "province": "Rehamna",
+    "region": "Marrakech-Safi",
+    "communes": [
+      "Ait Hammou", "Ait Taleb", "Akarma", "Ben Guerir", "Bouchane", "Bourrous",
+      "Jaafra", "Jaidate", "Jbilate", "Labrikiyne", "Lamharza Essahel", "Nzalat Laadam",
+      "Oulad Aamer Tizmarine", "Oulad Hassoune Hamri", "Oulad Imloul", "Ras Ain Rhamna",
+      "SIDI-GHANEM", "Sidi Abdallah", "Sidi Ali Labrahla", "Sidi Bou Othmane",
+      "Sidi Mansour", "Skhour Rhamna", "Skoura Lhadra", "Tlauh"
+    ]
+  },
+  {
+    "id": 55,
+    "province": "Safi",
+    "region": "Marrakech-Safi",
+    "communes": [
+      "Atouabet", "Ayir", "Bouguedra", "Chahda", "Dar Si Aissa", "El Beddouza",
+      "El Ghiate", "El Gouraani", "Hrara", "Jamaat Shaim", "Khatazakane", "Laamamra",
+      "Labkhati", "Lahdar", "Lambarkiyine", "Lamrija", "Lamssid", "Moul El Bergui",
+      "Nagga", "Ouled Salmane", "Saadla", "Safi", "Sebt Gzoula", "Sidi Aissa",
+      "Sidi Ettiji"
+    ]
+  },
+  {
+    "id": 56,
+    "province": "Salé",
+    "region": "Rabat-Salé-Kénitra",
+    "communes": [
+      "Ameur", "Bab Lamrissa", "Bettana", "Hssaine", "Layayda", "Lbir Jdid", "Shoul",
+      "Sidi Bouknadel", "Tabriquet"
+    ]
+  },
+  {
+    "id": 57,
+    "province": "Sefrou",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Adrej", "Aghbalou Aqorar", "Ahl Sidi Lahcen", "Ain Cheggag", "Ain Timguenai",
+      "Ait Sebaa Lajrouf", "Azzaba", "Bhalil", "Bir Tam Tam", "Dar El Hamra",
+      "EL MENZEL", "Ighzrane", "Imouzzer Kandar", "Kandar Sidi Khiar", "Laanoussar",
+      "Mtarnagha", "Oulad Mkoudou", "Ras Tabouda", "Ribate El Kheir", "Sefrou",
+      "Sidi Youssef Ben Ahmed", "Tafajight", "Tazouta"
+    ]
+  },
+  {
+    "id": 58,
+    "province": "Settat",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Ain Blal", "Ain Dorbane-Lahlaf", "Ben Ahmed", "Bni Khloug", "Bni Yagrine",
+      "Bouguargouh", "Dar Chaffai", "El Borouj", "Gdana", "Guisser", "Khemisset Chaouia",
+      "Lahouaza", "Lalla Aaziza", "Laqraqra", "Laqsabi Tagoust", "Loulad",
+      "Machraa Ben Abbou", "Meskoura", "Mniaa", "Mrizigue", "Mzamza Janoubia",
+      "Mzoura", "M'Garto", "N'Khila", "Oued Naanaa", "Oulad Amer", "Oulad Bouali Nouaja",
+      "Oulad Chbana", "Oulad Fares", "Oulad Fares El Halla", "Oulad Freiha",
+      "Oulad M'Hamed", "Oulad M'Rah", "Oulad Said", "Oulad Sghir", "Ras El Ain Chaouia",
+      "Rima", "Settat", "Sgamna", "Sidi Abdelkrim", "Sidi Ahmed El Khadir",
+      "Sidi Boumehdi", "Sidi Dahbi", "Sidi El Aidi", "Sidi Hajjaj",
+      "Sidi Mohammed Ben Rahal", "Toualet"
+    ]
+  },
+  {
+    "id": 59,
+    "province": "Sidi Bennour",
+    "region": "Casablanca-Settat",
+    "communes": [
+      "Bni Hilal", "Bni Tsiriss", "Bouhmame", "Jabria", "Khmis Ksiba", "Koudiat Bni Dghough",
+      "Kridid", "Laagagcha", "Laamria", "Laaounate", "Laatatra", "Laghnadra", "Lhraouiyyine",
+      "Lmechrek", "Loualidia", "Metrane", "M'Tal", "Oulad Amrane", "Oulad Boussaken",
+      "Oulad Sbaita", "Oulad Si Bouhya", "Saniat Berguig", "Sidi Bennour", "Tamda", "Zemamra"
+    ]
+  },
+  {
+    "id": 60,
+    "province": "Sidi Ifni",
+    "region": "Guelmim-Oued Noun",
+    "communes": [
+      "Ait Erkha", "Anfeg", "Arbaa Ait Abdellah", "Boutrouch", "Ibdar", "Imi N'Fast",
+      "Lakhzazra", "Mesti", "Mirleft", "Sbouya", "Sebt Ennabour", "Sidi Abdallah Ou Belaid",
+      "Sidi H'Saine Ou Ali", "Sidi Ifni", "Sidi M'Bark", "Tangarfa", "Tighirt",
+      "Tioughza", "Tnine Amellou"
+    ]
+  },
+  {
+    "id": 61,
+    "province": "Sidi Kacem",
+    "region": "Rabat-Salé-Kénitra",
+    "communes": [
+      "Ain Dfali", "Al Haouafate", "Bab Tiouka", "Bir Taleb", "Bni Oual", "Chbanate",
+      "Dar Gueddari", "Dar Laaslouji", "Had Kourt", "Jorf El Melha", "Khnichet",
+      "Lamrasla", "Mechraa Bel Ksiri", "Moulay Abdelkader", "Nouirate", "Oulad Nouel",
+      "Rmilat", "Sefsaf", "Selfat", "Sidi Ahmed Benaissa", "Sidi Al Kamel",
+      "Sidi Ameur Al Hadi", "Sidi Azzouz", "Sidi Kacem", "Sidi M'Hamed Chelh",
+      "Taoughilt", "Tekna", "Zaggota", "Zirara"
+    ]
+  },
+  {
+    "id": 62,
+    "province": "Sidi Slimane",
+    "region": "Rabat-Salé-Kénitra",
+    "communes": [
+      "Ameur Chamalia", "Azghar", "Boumaiz", "Dar Bel Amri", "Kceibya", "M'saada",
+      "Ouled Ben Hammadi", "Ouled H'Cine", "Sfafaa", "Sidi Slimane", "Sidi Yahya El Gharb"
+    ]
+  },
+  {
+    "id": 63,
+    "province": "Skhirate- Témara",
+    "region": "Rabat-Salé-Kénitra",
+    "communes": [
+      "Ain Attig", "Ain El Aouda", "El Menzeh", "Harhoura", "Mers El Kheir", "Oumazza",
+      "Sabbah", "Sidi Yahya Zaer", "Skhirate", "Témara"
+    ]
+  },
+  {
+    "id": 64,
+    "province": "Tan-Tan",
+    "region": "Guelmim-Oued Noun",
+    "communes": [
+      "Abteh", "Ben Khlil", "Chbika", "El Ouatia", "Msied", "Tan Tan", "Tilemzoun"
+    ]
+  },
+  {
+    "id": 65,
+    "province": "Tanger -Assilah",
+    "region": "Tanger-Tetouan-Al Hoceima",
+    "communes": [
+      "Al Manzla", "Aquouass Briech", "Assilah", "Bni Makada", "Charf-Mghogha",
+      "Charf-Souani", "Dar Chaoui", "Gueznaia", "HJAR ENNHAL", "Had Al Gharbia",
+      "Laaouama", "Sahel Chamali", "Sebt Azzinate", "Sidi Lyamani", "Tanger-Médina"
+    ]
+  },
+  {
+    "id": 66,
+    "province": "Taounate",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Ain Aicha", "Ain Legdah", "Ain Maatouf", "Ain Mediouna", "Bni Oulid",
+      "Bni Ounjel Tafraout", "Bni Snous", "Bouadel", "Bouarouss", "Bouchabel",
+      "Bouhouda", "El Bibane", "El Bsabsa", "Fennassa Bab El Hit", "Galaz", "Ghafsai",
+      "Jbabra", "Karia Ba Mohamed", "Khlalfa", "Kissane", "Loulja", "Messassa",
+      "Mezraoua", "Mkansa", "Moulay Abdelkrim", "Moulay Bouchta", "Oudka", "Oued Jemaa",
+      "Oulad Ayyad", "Oulad Daoud", "Ourtzagh", "Outabouabane", "Ras El Oued", "Ratba",
+      "Rghioua", "Rhouazi", "Sidi El Abed", "Sidi Haj M'hamed", "Sidi Mokhfi",
+      "Sidi M'Hamed Ben Lahcen", "Sidi Yahya Bni Zeroual", "Tabouda", "Tafrant",
+      "Tamedit", "Taounate", "Thar Es-souk", "Timezgana", "Tissa", "Zrizer"
+    ]
+  },
+  {
+    "id": 67,
+    "province": "Taourirt",
+    "region": "Oriental",
+    "communes": [
+      "Ahl Oued Za", "Ain Lehjer", "Debdou", "El Aioun Sidi Mellouk", "El Atef",
+      "Gteter", "Mechraa Hammadi", "Melg El Ouidane", "Mestegmer", "OULED M'HAMED",
+      "Sidi Ali Bel Quassem", "Sidi Lahsen", "Tancherfi", "Taourirt"
+    ]
+  },
+  {
+    "id": 68,
+    "province": "Tarfaya",
+    "region": "Laâyoune-Sakia El Hamra",
+    "communes": [
+      "Akhfennir", "Daoura", "El Hagounia", "Tah", "Tarfaya"
+    ]
+  },
+  {
+    "id": 69,
+    "province": "Taroudannt",
+    "region": "Souss-Massa",
+    "communes": [
+      "Adar", "Agadir Melloul", "Ahl Ramel", "Ahl Tifnoute", "Ahmar Laglalcha",
+      "Ait Abdallah", "Ait Iaaza", "Ait Igas", "Ait Makhlouf", "Amalou", "Aoulouz",
+      "Arazane", "Argana", "Askaouen", "Assads", "Assaisse", "Assaki", "Azaghar N'Irs",
+      "Azrar", "Bigoudine", "Bounrar", "Eddir", "El Faid", "El Guerdane",
+      "El Koudia El Beida", "Freija", "Ida Ou Gailal", "Ida Ou Moumen", "Ida Ougoummad",
+      "Igli", "Igoudar Mnabha", "Iguidi", "Imaouen", "Imi N'Tayart", "Imilmaiss",
+      "Imoulass", "Irherm", "Issen", "Lagfifat", "Lakhoualqa", "Lamhara", "Lamharra",
+      "Lamrabih", "Machraa El Ain", "Nihit", "OULED AISSA", "Oualqadi", "Oulad Berhil",
+      "Oulad Teima", "Ouneine", "Ouzioua", "Sidi Abdellah Ou Said", "Sidi Ahmed Ou Abdallah",
+      "Sidi Ahmed Ou Amar", "Sidi Boaal", "Sidi Borja", "Sidi Boumoussa", "Sidi Dahmane",
+      "Sidi Hsaine", "Sidi Moussa Lhamri", "Sidi Mzal", "Sidi Ouaaziz", "Tafingoult",
+      "Tafraouten", "Talgjount", "Taliouine", "Talmakante", "Tamaloukte", "Taouyalte",
+      "Taroudannt", "Tassousfi", "Tataoute", "Tazemmourt", "Tidsi Nissendalene",
+      "Tigouga", "Tindine", "Tinzart", "Tiout", "Tisfane", "Tisrasse", "Tizgzaouine",
+      "Tizi N'Test", "Toubkal", "Toufelaazt", "Toughmart", "Toumliline", "Zagmouzen",
+      "Zaouia Sidi Tahar"
+    ]
+  },
+  {
+    "id": 70,
+    "province": "Tata",
+    "region": "Souss-Massa",
+    "communes": [
+      "Adis", "Aguinane", "Ait Ouabelli", "Akka", "Akka Ighane", "Allougoum",
+      "Fam El Hisn", "Foum Zguid", "Ibn Yacoub", "Issafen", "Kasbat Sidi Abdellah Ben M'Barek",
+      "Oum El Guerdane", "Tagmout", "Tamanarte", "Tata", "Tigzmerte", "Tissint",
+      "Tizaghte", "Tizounine", "Tlite"
+    ]
+  },
+  {
+    "id": 71,
+    "province": "Taza",
+    "region": "Fès-Meknès",
+    "communes": [
+      "Ait Saghrouchen", "Ajdir", "Aknoul", "Bab Boudir", "Bab Marzouka", "Bni Frassen",
+      "Bni Ftah", "Bni Lent", "Bouchfaa", "Bouhlou", "Bourd", "Bouyablane", "Brarha",
+      "El Gouzate", "Galdamane", "Ghiata Al Gharbia", "Gzenaya Al Janoubia", "Jbarna",
+      "Kaf El Ghar", "Maghraoua", "Matmata", "Meknassa Acharqia", "Meknassa Al Gharbia",
+      "Msila", "Oued Amlil", "Oulad Chrif", "Oulad Zbair", "Rbaa El Fouki",
+      "Sidi Ali Bourakba", "Smià", "Tahla", "Taifa", "Tainaste", "Taza", "Tazarine",
+      "Tizi Ouasli", "Traiba", "Zrarda"
+    ]
+  },
+  {
+    "id": 72,
+    "province": "Tinghir",
+    "region": "Drâa-Tafilalet",
+    "communes": [
+      "Ait El Farsi", "Ait Hani", "Ait Ouassif", "Ait Sedrate Jbel EL Soufla",
+      "Ait Sedrate Jbel El Oulia", "Ait Sedrate Sahl Charkia", "Ait Sedrate Sahl El Gharbia",
+      "Ait Youl", "Alnif", "Assoul", "Boumalne Dades", "H'Ssyia", "Ighil N'Oumgoun",
+      "Ikniouen", "Imider", "Kalaat M'Gouna", "M'Semrir", "M'Ssici", "Ouaklim",
+      "Souk Lakhmis Dades", "Taghzoute N'Ait Atta", "Tilmi", "Tinghir", "Toudgha El Oulia",
+      "Toudgha Essoufla"
+    ]
+  },
+  {
+    "id": 73,
+    "province": "Tiznit",
+    "region": "Souss-Massa",
+    "communes": [
+      "Afella Ighir", "Ait Issafen", "Ait Ouafqa", "Ammelne", "Anzi", "Arbaa Ait Ahmed",
+      "Arbaa Rasmouka", "Arbaa Sahel", "Bounaamane", "El Maader El Kabir", "Ida Ou Gougmar",
+      "Irigh N'Tahala", "Ouijjane", "Reggada", "Sidi Ahmed Ou Moussa", "Sidi Bouabdelli",
+      "Tafraout", "Tafraout El Mouloud", "Tarsouat", "Tassrirt", "Tighmi", "Tiznit",
+      "Tizoughrane", "Tnine Aday", "Tnine Aglou"
+    ]
+  },
+  {
+    "id": 74,
+    "province": "Tétouan",
+    "region": "Tanger-Tetouan-Al Hoceima",
+    "communes": [
+      "AL Kharroub", "Ain Lahsan", "Al Hamra", "Al Oued", "Azla", "Bghaghza", "Bni Harchen",
+      "Bni Idder", "Bni Leit", "Bni Said", "Dar Bni Karrich", "Jbel Lahbib", "Mallalienne",
+      "Oued Laou", "Oulad Ali Mansour", "Saddina", "Sahtryine", "Souk Kdim", "Tétouan",
+      "Zaitoune", "Zaouiat Sidi Kacem", "Zinat"
+    ]
+  },
+  {
+    "id": 75,
+    "province": "Zagora",
+    "region": "Drâa-Tafilalet",
+    "communes": [
+      "Afella N'Dra", "Afra", "Agdz", "Ait Boudaoud", "Aït Ouallal", "Bleida", "Bni Zoli",
+      "Bouzeroual", "Errouha", "Fezouata", "Ktaoua", "Mezguita", "M'Hamid El Ghizlane",
+      "N'Kob", "Oulad Yahia Lagraire", "Taftechna", "Taghbalte", "Tagounite", "Tamegroute",
+      "Tamezmoute", "Tansifte", "Tazarine", "Ternata", "Tinzouline", "Zagora"
+    ]
+  }
+]
