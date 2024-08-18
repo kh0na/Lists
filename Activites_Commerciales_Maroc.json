@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "nom": "AGRICULTURE, SYLVICULTURE ET PÊCHE",
+    "sous_categories": [
+      {
+        "id": 1.1,
+        "nom": "Culture et production animale, chasse et services annexes",
+        "activites": [
+          "Cultures non permanentes",
+          "Cultures permanentes",
+          "Multiplication de plantes",
+          "Production animale",
+          "Culture et élevage associés",
+          "Activités de soutien à l'agriculture et traitement primaire des récoltes",
+          "Chasse, piégeage et services annexes"
+        ]
+      },
+      {
+        "id": 1.2,
+        "nom": "Sylviculture et exploitation forestière",
+        "activites": [
+          "Sylviculture et autres activités forestières",
+          "Exploitation forestière",
+          "Récolte de produits forestiers non ligneux poussant à l'état sauvage",
+          "Services de soutien à l'exploitation forestière"
+        ]
+      },
+      {
+        "id": 1.3,
+        "nom": "Pêche et aquaculture",
+        "activites": [
+          "Pêche",
+          "Aquaculture"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "INDUSTRIES EXTRACTIVES",
+    "sous_categories": [
+      {
+        "id": 2.1,
+        "nom": "Extraction de houille et de lignite",
+        "activites": [
+          "Extraction de houille",
+          "Extraction de lignite"
+        ]
+      },
+      {
+        "id": 2.2,
+        "nom": "Extraction d'hydrocarbures",
+        "activites": [
+          "Extraction de pétrole brut",
+          "Extraction de gaz naturel"
+        ]
+      },
+      {
+        "id": 2.3,
+        "nom": "Extraction de minerais métalliques",
+        "activites": [
+          "Extraction de minerais de fer",
+          "Extraction de minerais de métaux non ferreux"
+        ]
+      },
+      {
+        "id": 2.4,
+        "nom": "Autres industries extractives",
+        "activites": [
+          "Extraction de pierres, de sables et d'argiles",
+          "Extraction de phosphates naturels",
+          "Activités extractives n.c.a."
+        ]
+      },
+      {
+        "id": 2.5,
+        "nom": "Services de soutien aux industries extractives",
+        "activites": [
+          "Activités de soutien aux autres industries extractives",
+          "Activités de soutien à l'extraction d'hydrocarbures"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "INDUSTRIE MANUFACTURIÈRE",
+    "sous_categories": [
+      {
+        "id": 3.1,
+        "nom": "Industries alimentaires",
+        "activites": [
+          "Fabrication de produits de boulangerie-pâtisserie et de pâtes alimentaires",
+          "Fabrication d'autres produits alimentaires",
+          "Fabrication d'aliments pour animaux",
+          "Transformation et conservation de la viande et préparation de produits à base de viande",
+          "Transformation et conservation de poissons, de crustacés et de mollusques",
+          "Transformation et conservation de fruits et légumes",
+          "Fabrication d'huiles et graisses végétales et animales",
+          "Fabrication de produits laitiers",
+          "Travail des grains ; fabrication de produits amylacés"
+        ]
+      },
+      {
+        "id": 3.2,
+        "nom": "Fabrication de boissons",
+        "activites": [
+          "Fabrication de boissons"
+        ]
+      },
+      {
+        "id": 3.3,
+        "nom": "Fabrication de produits à base de tabac",
+        "activites": [
+          "Fabrication de produits à base de tabac"
+        ]
+      },
+      {
+        "id": 3.4,
+        "nom": "Fabrication de textiles",
+        "activites": [
+          "Préparation de fibres textiles et filature",
+          "Tissage",
+          "Ennoblissement textile",
+          "Fabrication de tapis et moquettes",
+          "Fabrication d'autres textiles"
+        ]
+      },
+      {
+        "id": 3.5,
+        "nom": "Industrie de l'habillement",
+        "activites": [
+          "Fabrication de vêtements, autres qu'en fourrure",
+          "Fabrication d'articles en fourrure",
+          "Fabrication d'articles à mailles"
+        ]
+      },
+      {
+        "id": 3.6,
+        "nom": "Industrie du cuir et de la chaussure",
+        "activites": [
+          "Apprêt et tannage des cuirs ; préparation et teinture des fourrures ; fabrication d'articles de voyage, de maroquinerie et de sellerie",
+          "Fabrication de chaussures"
+        ]
+      },
+      {
+        "id": 3.7,
+        "nom": "Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",
+        "activites": [
+          "Sciage et rabotage du bois",
+          "Fabrication d'articles en bois, liège, vannerie et sparterie"
+        ]
+      },
+      {
+        "id": 3.8,
+        "nom": "Industrie du papier et du carton",
+        "activites": [
+          "Fabrication de pâte à papier, de papier et de carton",
+          "Fabrication d'articles en papier ou en carton"
+        ]
+      },
+      {
+        "id": 3.9,
+        "nom": "Imprimerie et reproduction d'enregistrements",
+        "activites": [
+          "Imprimerie et services annexes",
+          "Reproduction d'enregistrements"
+        ]
+      },
+      {
+        "id": 3.10,
+        "nom": "Cokéfaction et raffinage",
+        "activites": [
+          "Cokéfaction",
+          "Raffinage du pétrole"
+        ]
+      },
+      {
+        "id": 3.11,
+        "nom": "Industrie chimique",
+        "activites": [
+          "Fabrication de produits chimiques de base, de produits azotés et d'engrais, de matières plastiques de base et de caoutchouc synthétique",
+          "Fabrication de pesticides et d'autres produits agrochimiques",
+          "Fabrication de peintures, vernis, encres et mastics",
+          "Fabrication de savons, de produits d'entretien et de parfums",
+          "Fabrication d'autres produits chimiques",
+          "Fabrication de fibres artificielles ou synthétiques"
+        ]
+      },
+      {
+        "id": 3.12,
+        "nom": "Industrie pharmaceutique",
+        "activites": [
+          "Fabrication de produits pharmaceutiques de base",
+          "Fabrication de préparations pharmaceutiques"
+        ]
+      },
+      {
+        "id": 3.13,
+        "nom": "Fabrication de produits en caoutchouc et en plastique",
+        "activites": [
+          "Fabrication de produits en caoutchouc",
+          "Fabrication de produits en plastique"
+        ]
+      },
+      {
+        "id": 3.14,
+        "nom": "Fabrication d'autres produits minéraux non métalliques",
+        "activites": [
+          "Fabrication de verre et d'articles en verre",
+          "Fabrication de produits réfractaires",
+          "Fabrication de matériaux de construction en terre cuite",
+          "Fabrication d'autres produits en céramique et en porcelaine",
+          "Fabrication de ciment, chaux et plâtre",
+          "Fabrication d'ouvrages en béton, en ciment ou en plâtre",
+          "Taille, façonnage et finissage de pierres",
+          "Fabrication de produits abrasifs et de produits minéraux non métalliques n.c.a."
+        ]
+      },
+      {
+        "id": 3.15,
+        "nom": "Métallurgie",
+        "activites": [
+          "Sidérurgie",
+          "Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier",
+          "Fabrication d'autres produits de première transformation de l'acier",
+          "Production de métaux précieux et d'autres métaux non ferreux",
+          "Fonderie"
+        ]
+      },
+      {
+        "id": 3.16,
+        "nom": "Fabrication de produits métalliques, à l'exception des machines et des équipements",
+        "activites": [
+          "Fabrication d'éléments en métal pour la construction",
+          "Fabrication de réservoirs, citernes et conteneurs métalliques",
+          "Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central",
+          "Fabrication d'armes et de munitions",
+          "Forge, emboutissage, estampage; métallurgie des poudres",
+          "Traitement et revêtement des métaux; usinage",
+          "Fabrication de coutellerie, d'outillage et de quincaillerie",
+          "Fabrication d'autres ouvrages en métaux"
+        ]
+      },
+      {
+        "id": 3.17,
+        "nom": "Fabrication de produits informatiques, électroniques et optiques",
+        "activites": [
+          "Fabrication de composants et cartes électroniques",
+          "Fabrication d'ordinateurs et d'équipements périphériques",
+          "Fabrication d'équipements de communication",
+          "Fabrication de produits électroniques grand public",
+          "Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation ; horlogerie",
+          "Fabrication d'équipements d'irradiation médicale, d'équipements électromédicaux et électrothérapeutiques",
+          "Fabrication de matériels optique et photographique",
+          "Fabrication de supports magnétiques et optiques"
+        ]
+      },
+      {
+        "id": 3.18,
+        "nom": "Fabrication d'équipements électriques",
+        "activites": [
+          "Fabrication de moteurs, génératrices et transformateurs électriques et de matériel de distribution et de commande électrique",
+          "Fabrication de piles et d'accumulateurs électriques",
+          "Fabrication de fils et câbles et de matériel d'installation électrique",
+          "Fabrication d'appareils d'éclairage électrique",
+          "Fabrication d'appareils ménagers",
+          "Fabrication d'autres matériels électriques"
+        ]
+      },
+      {
+        "id": 3.19,
+        "nom": "Fabrication de machines et équipements n.c.a.",
+        "activites": [
+          "Fabrication de machines d'usage général",
+          "Fabrication d'autres machines d'usage général",
+          "Fabrication de machines agricoles et forestières",
+          "Fabrication de machines de formage des métaux et de machines-outils",
+          "Fabrication d'autres machines d'usage spécifique"
+        ]
+      },
+      {
+        "id": 3.20,
+        "nom": "Industrie automobile",
+        "activites": [
+          "Construction de véhicules automobiles",
+          "Fabrication de carrosseries et remorques",
+          "Fabrication d'équipements automobiles"
+        ]
+      },
+      {
+        "id": 3.21,
+        "nom": "Fabrication d'autres matériels de transport",
+        "activites": [
+          "Construction navale",
+          "Construction de locomotives et d'autre matériel ferroviaire roulant",
+          "Construction aéronautique et spatiale",
+          "Construction de véhicules militaires de combat",
+          "Fabrication de matériels de transport n.c.a."
+        ]
+      },
+      {
+        "id": 3.22,
+        "nom": "Fabrication de meubles",
+        "activites": [
+          "Fabrication de meubles"
+        ]
+      },
+      {
+        "id": 3.23,
+        "nom": "Autres industries manufacturières",
+        "activites": [
+          "Fabrication d'articles de joaillerie, bijouterie et articles similaires",
+          "Fabrication d'instruments de musique",
+          "Fabrication d'articles de sport",
+          "Fabrication de jeux et jouets",
+          "Fabrication d'instruments et de fournitures à usage médical et dentaire",
+          "Activités manufacturières n.c.a."
+        ]
+      },
+      {
+        "id": 3.24,
+        "nom": "Réparation et installation de machines et d'équipements",
+        "activites": [
+          "Installation de machines et d'équipements industriels",
+          "Réparation d'ouvrages en métaux, de machines et d'équipements"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "PRODUCTION ET DISTRIBUTION D'ÉLECTRICITÉ, DE GAZ, DE VAPEUR ET D'AIR CONDITIONNÉ",
+    "sous_categories": [
+      {
+        "id": 4.1,
+        "nom": "Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné",
+        "activites": [
+          "Production, transport et distribution d'électricité",
+          "Production et distribution de combustibles gazeux",
+          "Production et distribution de vapeur et d'air conditionné"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nom": "PRODUCTION ET DISTRIBUTION D'EAU ; ASSAINISSEMENT, GESTION DES DÉCHETS ET DÉPOLLUTION",
+    "sous_categories": [
+      {
+        "id": 5.1,
+        "nom": "Captage, traitement et distribution d'eau",
+        "activites": [
+          "Captage, traitement et distribution d'eau"
+        ]
+      },
+      {
+        "id": 5.2,
+        "nom": "Collecte et traitement des eaux usées",
+        "activites": [
+          "Collecte et traitement des eaux usées"
+        ]
+      },
+      {
+        "id": 5.3,
+        "nom": "Collecte, traitement et élimination des déchets ; récupération",
+        "activites": [
+          "Collecte des déchets",
+          "Traitement et élimination des déchets",
+          "Récupération"
+        ]
+      },
+      {
+        "id": 5.4,
+        "nom": "Dépollution et autres services de gestion des déchets",
+        "activites": [
+          "Dépollution et autres services de gestion des déchets"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nom": "CONSTRUCTION",
+    "sous_categories": [
+      {
+        "id": 6.1,
+        "nom": "Construction de bâtiments",
+        "activites": [
+          "Promotion immobilière",
+          "Construction de bâtiments résidentiels et non résidentiels"
+        ]
+      },
+      {
+        "id": 6.2,
+        "nom": "Génie civil",
+        "activites": [
+          "Construction de routes et de voies ferrées",
+          "Construction de réseaux et de lignes",
+          "Construction d'autres ouvrages de génie civil"
+        ]
+      },
+      {
+        "id": 6.3,
+        "nom": "Travaux de construction spécialisés",
+        "activites": [
+          "Démolition et préparation des sites",
+          "Travaux d'installation électrique, plomberie et autres travaux d'installation",
+          "Travaux de finition",
+          "Autres travaux de construction spécialisés"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nom": "COMMERCE ; RÉPARATION D'AUTOMOBILES ET DE MOTOCYCLES",
+    "sous_categories": [
+      {
+        "id": 7.1,
+        "nom": "Commerce et réparation d'automobiles et de motocycles",
+        "activites": [
+          "Commerce de véhicules automobiles",
+          "Entretien et réparation de véhicules automobiles",
+          "Commerce d'équipements automobiles",
+          "Commerce et réparation de motocycles"
+        ]
+      },
+      {
+        "id": 7.2,
+        "nom": "Commerce de gros, à l'exception des automobiles et des motocycles",
+        "activites": [
+          "Intermédiaires du commerce de gros",
+          "Commerce de gros de produits agricoles bruts et d'animaux vivants",
+          "Commerce de gros de produits alimentaires, de boissons et de tabac",
+          "Commerce de gros de biens domestiques",
+          "Commerce de gros d'équipements de l'information et de la communication",
+          "Commerce de gros d'autres équipements industriels",
+          "Autres commerces de gros spécialisés",
+          "Commerce de gros non spécialisé"
+        ]
+      },
+      {
+        "id": 7.3,
+        "nom": "Commerce de détail, à l'exception des automobiles et des motocycles",
+        "activites": [
+          "Commerce de détail sur éventaires et marchés",
+          "Commerce de détail hors magasin, éventaires ou marchés",
+          "Commerce de détail en magasin non spécialisé",
+          "Commerce de détail alimentaire en magasin spécialisé",
+          "Commerce de détail de carburants en magasin spécialisé",
+          "Commerce de détail d'équipements de l'information et de la communication en magasin spécialisé",
+          "Commerce de détail d'autres équipements du foyer en magasin spécialisé",
+          "Commerce de détail de biens culturels et de loisirs en magasin spécialisé",
+          "Autres commerces de détail en magasin spécialisé"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nom": "TRANSPORTS ET ENTREPOSAGE",
+    "sous_categories": [
+      {
+        "id": 8.1,
+        "nom": "Transports terrestres et transport par conduites",
+        "activites": [
+          "Transport ferroviaire interurbain de voyageurs",
+          "Transports ferroviaires de fret",
+          "Autres transports terrestres de voyageurs",
+          "Transports routiers de fret et services de déménagement",
+          "Transports par conduites"
+        ]
+      },
+      {
+        "id": 8.2,
+        "nom": "Transports par eau",
+        "activites": [
+          "Transports maritimes et côtiers de passagers",
+          "Transports maritimes et côtiers de fret",
+          "Transports fluviaux de passagers",
+          "Transports fluviaux de fret"
+        ]
+      },
+      {
+        "id": 8.3,
+        "nom": "Transports aériens",
+        "activites": [
+          "Transports aériens de passagers",
+          "Transports aériens de fret et transports spatiaux"
+        ]
+      },
+      {
+        "id": 8.4,
+        "nom": "Entreposage et services auxiliaires des transports",
+        "activites": [
+          "Entreposage et stockage",
+          "Services auxiliaires des transports"
+        ]
+      },
+      {
+        "id": 8.5,
+        "nom": "Activités de poste et de courrier",
+        "activites": [
+          "Activités de poste dans le cadre d'une obligation de service universel",
+          "Autres activités de poste et de courrier"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nom": "HÉBERGEMENT ET RESTAURATION",
+    "sous_categories": [
+      {
+        "id": 9.1,
+        "nom": "Hébergement",
+        "activites": [
+          "Hôtels et hébergement similaire",
+          "Hébergement touristique et autre hébergement de courte durée",
+          "Terrains de camping et parcs pour caravanes ou véhicules de loisirs",
+          "Autres hébergements"
+        ]
+      },
+      {
+        "id": 9.2,
+        "nom": "Restauration",
+        "activites": [
+          "Restaurants et services de restauration mobile",
+          "Traiteurs et autres services de restauration",
+          "Débits de boissons"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nom": "INFORMATION ET COMMUNICATION",
+    "sous_categories": [
+      {
+        "id": 10.1,
+        "nom": "Production de films cinématographiques, de vidéo et de programmes de télévision ; enregistrement sonore et édition musicale",
+        "activites": [
+          "Activités cinématographiques, vidéo et de télévision",
+          "Enregistrement sonore et édition musicale"
+        ]
+      },
+      {
+        "id": 10.2,
+        "nom": "Programmation et diffusion",
+        "activites": [
+          "Édition et diffusion de programmes radio",
+          "Programmation de télévision et télédiffusion"
+        ]
+      },
+      {
+        "id": 10.3,
+        "nom": "Télécommunications",
+        "activites": [
+          "Télécommunications filaires",
+          "Télécommunications sans fil",
+          "Télécommunications par satellite",
+          "Autres activités de télécommunication"
+        ]
+      },
+      {
+        "id": 10.4,
+        "nom": "Programmation, conseil et autres activités informatiques",
+        "activites": [
+          "Programmation, conseil et autres activités informatiques"
+        ]
+      },
+      {
+        "id": 10.5,
+        "nom": "Services d'information",
+        "activites": [
+          "Traitement de données, hébergement et activités connexes ; portails Internet",
+          "Autres services d'information"
+        ]
+      },
+      {
+        "id": 10.6,
+        "nom": "Édition",
+        "activites": [
+          "Édition de livres et périodiques et autres activités d'édition",
+          "Édition de logiciels"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nom": "ACTIVITÉS FINANCIÈRES ET D'ASSURANCE",
+    "sous_categories": [
+      {
+        "id": 11.1,
+        "nom": "Activités des services financiers, hors assurance et caisses de retraite",
+        "activites": [
+          "Intermédiation monétaire",
+          "Activités des sociétés holding",
+          "Fonds de placement et entités financières similaires",
+          "Autres activités des services financiers, hors assurance et caisses de retraite"
+        ]
+      },
+      {
+        "id": 11.2,
+        "nom": "Assurance",
+        "activites": [
+          "Assurance",
+          "Réassurance",
+          "Caisses de retraite"
+        ]
+      },
+      {
+        "id": 11.3,
+        "nom": "Activités auxiliaires de services financiers et d'assurance",
+        "activites": [
+          "Activités auxiliaires de services financiers, hors assurance et caisses de retraite",
+          "Activités auxiliaires d'assurance et de caisses de retraite",
+          "Gestion de fonds"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nom": "ACTIVITÉS IMMOBILIÈRES",
+    "sous_categories": [
+      {
+        "id": 12.1,
+        "nom": "Activités immobilières",
+        "activites": [
+          "Activités des marchands de biens immobiliers",
+          "Location et exploitation de biens immobiliers propres ou loués",
+          "Activités immobilières pour compte de tiers"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nom": "ACTIVITÉS SPÉCIALISÉES, SCIENTIFIQUES ET TECHNIQUES",
+    "sous_categories": [
+      {
+        "id": 13.1,
+        "nom": "Activités juridiques et comptables",
+        "activites": [
+          "Activités juridiques",
+          "Activités comptables"
+        ]
+      },
+      {
+        "id": 13.2,
+        "nom": "Activités des sièges sociaux ; conseil de gestion",
+        "activites": [
+          "Activités des sièges sociaux",
+          "Conseil de gestion"
+        ]
+      },
+      {
+        "id": 13.3,
+        "nom": "Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques",
+        "activites": [
+          "Activités de contrôle et analyses techniques",
+          "Activités d'architecture et d'ingénierie"
+        ]
+      },
+      {
+        "id": 13.4,
+        "nom": "Recherche-développement scientifique",
+        "activites": [
+          "Recherche-développement en sciences physiques et naturelles",
+          "Recherche-développement en sciences humaines et sociales"
+        ]
+      },
+      {
+        "id": 13.5,
+        "nom": "Publicité et études de marché",
+        "activites": [
+          "Publicité",
+          "Études de marché et sondages"
+        ]
+      },
+      {
+        "id": 13.6,
+        "nom": "Autres activités spécialisées, scientifiques et techniques",
+        "activites": [
+          "Activités spécialisées de design",
+          "Activités photographiques",
+          "Traduction et interprétation",
+          "Autres activités spécialisées, scientifiques et techniques n.c.a."
+        ]
+      },
+      {
+        "id": 13.7,
+        "nom": "Activités vétérinaires",
+        "activites": [
+          "Activités vétérinaires"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nom": "ACTIVITÉS DE SERVICES ADMINISTRATIFS ET DE SOUTIEN",
+    "sous_categories": [
+      {
+        "id": 14.1,
+        "nom": "Activités de location et location-bail",
+        "activites": [
+          "Location et location-bail de véhicules automobiles",
+          "Location et location-bail de biens personnels et domestiques",
+          "Location et location-bail d'autres machines, équipements et biens",
+          "Location-bail de propriété intellectuelle et de produits similaires, à l'exception des œuvres soumises à copyright"
+        ]
+      },
+      {
+        "id": 14.2,
+        "nom": "Activités liées à l'emploi",
+        "activites": [
+          "Activités des agences de placement de main-d'œuvre",
+          "Activités des agences de travail temporaire",
+          "Autre mise à disposition de ressources humaines"
+        ]
+      },
+      {
+        "id": 14.3,
+        "nom": "Activités des agences de voyage, voyagistes, services de réservation et activités connexes",
+        "activites": [
+          "Activités des agences de voyage et voyagistes",
+          "Autres services de réservation et activités connexes"
+        ]
+      },
+      {
+        "id": 14.4,
+        "nom": "Enquêtes et sécurité",
+        "activites": [
+          "Activités de sécurité privée",
+          "Activités liées aux systèmes de sécurité",
+          "Activités d'enquête"
+        ]
+      },
+      {
+        "id": 14.5,
+        "nom": "Services relatifs aux bâtiments et aménagement paysager",
+        "activites": [
+          "Activités combinées de soutien lié aux bâtiments",
+          "Activités de nettoyage",
+          "Services d'aménagement paysager"
+        ]
+      },
+      {
+        "id": 14.6,
+        "nom": "Activités administratives et autres activités de soutien aux entreprises",
+        "activites": [
+          "Activités administratives",
+          "Activités de centres d'appels",
+          "Organisation de salons professionnels et congrès",
+          "Activités de soutien aux entreprises n.c.a."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nom": "ADMINISTRATION PUBLIQUE",
+    "sous_categories": [
+      {
+        "id": 15.1,
+        "nom": "Administration publique et défense ; sécurité sociale obligatoire",
+        "activites": [
+          "Administration générale, économique et sociale",
+          "Services de prérogative publique",
+          "Sécurité sociale obligatoire"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nom": "ENSEIGNEMENT",
+    "sous_categories": [
+      {
+        "id": 16.1,
+        "nom": "Enseignement",
+        "activites": [
+          "Enseignement pré-primaire",
+          "Enseignement primaire",
+          "Enseignement secondaire",
+          "Enseignement supérieur et post-Bac non supérieur (CPGE et BTS)",
+          "Autres activités d'enseignement",
+          "Activités de soutien à l'enseignement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nom": "SANTÉ HUMAINE ET ACTION SOCIALE",
+    "sous_categories": [
+      {
+        "id": 17.1,
+        "nom": "Activités pour la santé humaine",
+        "activites": [
+          "Activités hospitalières",
+          "Activité des médecins et des dentistes",
+          "Autres activités pour la santé humaine"
+        ]
+      },
+      {
+        "id": 17.2,
+        "nom": "Hébergement médico-social et social",
+        "activites": [
+          "Hébergement médicalisé",
+          "Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes",
+          "Hébergement social pour personnes âgées ou handicapées physiques",
+          "Autres activités d'hébergement social"
+        ]
+      },
+      {
+        "id": 17.3,
+        "nom": "Action sociale sans hébergement",
+        "activites": [
+          "Action sociale sans hébergement pour personnes âgées et pour personnes handicapées",
+          "Autre action sociale sans hébergement"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nom": "ARTS, SPECTACLES ET ACTIVITÉS RÉCRÉATIVES",
+    "sous_categories": [
+      {
+        "id": 18.1,
+        "nom": "Activités créatives, artistiques et de spectacle",
+        "activites": [
+          "Activités créatives, artistiques et de spectacle"
+        ]
+      },
+      {
+        "id": 18.2,
+        "nom": "Bibliothèques, archives, musées et autres activités culturelles",
+        "activites": [
+          "Bibliothèques, archives, musées et autres activités culturelles"
+        ]
+      },
+      {
+        "id": 18.3,
+        "nom": "Organisation de jeux de hasard et d'argent",
+        "activites": [
+          "Organisation de jeux de hasard et d'argent"
+        ]
+      },
+      {
+        "id": 18.4,
+        "nom": "Activités sportives, récréatives et de loisirs",
+        "activites": [
+          "Activités liées au sport",
+          "Activités récréatives et de loisirs"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nom": "AUTRES ACTIVITÉS DE SERVICES",
+    "sous_categories": [
+      {
+        "id": 19.1,
+        "nom": "Activités des organisations associatives",
+        "activites": []
+      },
+      {
+        "id": 19.2,
+        "nom": "Réparation d'ordinateurs et de biens personnels et domestiques",
+        "activites": []
+      },
+      {
+        "id": 19.3,
+        "nom": "Autres services personnels",
+        "activites": []
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nom": "ACTIVITÉS DES MÉNAGES EN TANT QU'EMPLOYEURS ; ACTIVITÉS INDIFFÉRENCIÉES DES MÉNAGES EN TANT QUE PRODUCTEURS DE BIENS ET SERVICES POUR USAGE PROPRE",
+    "sous_categories": [
+      {
+        "id": 20.1,
+        "nom": "Activités des ménages en tant qu'employeurs de personnel domestique",
+        "activites": []
+      },
+      {
+        "id": 20.2,
+        "nom": "Activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre",
+        "activites": []
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nom": "ACTIVITÉS EXTRA-TERRITORIALES",
+    "sous_categories": [
+      {
+        "id": 21.1,
+        "nom": "Activités des organisations et organismes extraterritoriaux",
+        "activites": []
+      }
+    ]
+  }
+]
